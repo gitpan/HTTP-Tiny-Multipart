@@ -21,11 +21,12 @@ my %WriteMakefileArgs = (
   "NAME" => "HTTP::Tiny::Multipart",
   "PREREQ_PM" => {
     "Carp" => 0,
+    "File::Basename" => 0,
     "HTTP::Tiny" => 0,
     "MIME::Base64" => 0
   },
   "TEST_REQUIRES" => {},
-  "VERSION" => "0.01",
+  "VERSION" => "0.02",
   "test" => {
     "TESTS" => "t/*.t"
   }

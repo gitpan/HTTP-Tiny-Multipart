@@ -1,7 +1,7 @@
 
 
 This archive contains the distribution HTTP-Tiny-Multipart,
-version 0.01:
+version 0.02:
 
   Add post_multipart to HTTP::Tiny
 
